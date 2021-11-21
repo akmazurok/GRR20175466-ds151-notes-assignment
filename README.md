@@ -1,7 +1,11 @@
 Universidade Federal do Paraná - UFPR
+
 Setor de Educação Profissional e Tecnológica - SEPT
+
 Tecnologia em Análise e Desenvolvimento de Sistemas
+
 DS151 - Desenvolvimento para Dispositivos Móveis
+
 Prof. Dr. Alexander Kutzke
 
 ##### GRR20175466 - Amanda Regina de Oliveira Mazurok
