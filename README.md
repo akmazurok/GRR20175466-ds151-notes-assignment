@@ -22,7 +22,7 @@ Na aplicação é possível:
 
 Exemplo de funcionamento:
 
-<img src="images/exemplo.gif" alt="Notes" style="zoom: 50%;" />
+<img src="images/exemplo.gif" alt="Notes" height="700" />
 
 
 
