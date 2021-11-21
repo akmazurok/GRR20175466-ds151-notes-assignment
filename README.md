@@ -1,25 +1,33 @@
-Tecnologia em Análise e Desenvolvimento de Sistemas
+Universidade Federal do Paraná - UFPR
 
 Setor de Educação Profissional e Tecnológica - SEPT
 
-Universidade Federal do Paraná - UFPR
+Tecnologia em Análise e Desenvolvimento de Sistemas
+
+DS151 - Desenvolvimento para Dispositivos Móveis
+
+##### GRR20175466 - Amanda Regina de Oliveira Mazurok
 
 ---
 
-*DS151 - Desenvolvimento para Dispositivos Móveis*
-
-Prof. Alexander Robert Kutzke
-
-* [Instruções para submissão de tarefas e trabalhos](https://gitlab.tadsufpr.net.br/ds122-alexkutzke/material/blob/master/instrucoes_submissao_tarefas_e_trabalhos.md)
-* [Video aula](https://www.youtube.com/watch?v=d6ZTnQNhoCo)
-
 # Atividade Notas
 
-Crie uma aplicação com o Expo (já inicializada nesse repositório) e que tenha o React Navigation configurado com navegação do tipo Stack.
+Construção de aplicação que realiza um CRUD (criar, alterar, ler e remover) de notas, utilizando Expo, React Navigation configurado em navegação do tipo Stack e os Hooks useReducer e useContext para compartilhar dados entre as telas.  
 
-A aplicação deve ser capaz de realizar um CRUD (criar, alterar, ler e remover) anotações (pequenos textos com um título e um conteúdo). 
-Cada operação deve ter a sua própria tela com exceção da remoção, que pode ser realizada junto com a listagem das notas.
+Na aplicação é possível:
 
-**Requisito principal**: as anotações devem ser armazenadas por meio de Reducer Hooks e Contexto e compartilhadas entre as diferentes telas da aplicação.
+- Adicionar uma nova nota com título e texto;
+- Editar o título e o texto de nota existente;
+- Apagar a nota.
 
-Layout e demais detalhes são livres. ;)
+Exemplo de funcionamento:
+
+<img src="images/exemplo.gif" alt="Notes" style="zoom: 50%;" />
+
+
+
+```bash
+$ npm install     # download e instalacao
+$ expo start       # run
+```
+
